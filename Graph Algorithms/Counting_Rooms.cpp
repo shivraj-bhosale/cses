@@ -32,7 +32,7 @@ int main(){
 // grid as top view of a single level of building then it's easy.
 
 // solution -> count total number of connected '.', because '.' is a floor and 
-// coonected '.' form a room as there is no wall seperating them.
+// coonected '.' form a room as there is no wall seperating them,
 
 
 
